@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\netcore</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Views/google0c2995d361b71910.html">
+      <publishTime>12/13/2021 21:52:55</publishTime>
+    </File>
+    <File Include="Views/Home/AboutUs.cshtml">
+      <publishTime>12/27/2021 01:08:46</publishTime>
+    </File>
+    <File Include="Views/Home/ContactUs.cshtml">
+      <publishTime>12/27/2021 01:16:41</publishTime>
+    </File>
+    <File Include="Views/Home/ErrorView.cshtml">
+      <publishTime>11/23/2021 21:09:04</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>12/27/2021 01:24:36</publishTime>
+    </File>
+    <File Include="Views/Home/Privacy.cshtml">
+      <publishTime>08/29/2021 01:11:39</publishTime>
+    </File>
+    <File Include="Views/Home/Request.cshtml">
+      <publishTime>12/27/2021 01:16:57</publishTime>
+    </File>
+    <File Include="Views/Home/SuccessView.cshtml">
+      <publishTime>11/23/2021 21:18:27</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>08/29/2021 01:11:39</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>12/27/2021 01:12:54</publishTime>
+    </File>
+    <File Include="Views/Shared/_ValidationScriptsPartial.cshtml">
+      <publishTime>08/29/2021 01:11:39</publishTime>
+    </File>
+    <File Include="Views/_ViewImports.cshtml">
+      <publishTime>08/29/2021 01:11:39</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>08/29/2021 01:11:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
